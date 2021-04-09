@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1B3A16AF-8872-40FD-88FE-94EA8A2E12F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyGramFirstProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramFirstProject/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MyGramFirstProject/Views/Shared/_Layout.cshtml" Line="31" Column="14" />
+      <File FileName="MyGramFirstProject/Views/Home/Index.cshtml" />
+      <File FileName="MyGramFirstProject/Views/Home/Privacy.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyGramFirstProject" expanded="True">
+            <Node name="MyGramFirstProject" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
