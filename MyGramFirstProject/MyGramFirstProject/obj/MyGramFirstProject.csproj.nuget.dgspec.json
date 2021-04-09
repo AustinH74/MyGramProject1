@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/austinholmes/Desktop/First Project/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj": {}
+    "/Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj": {}
   },
   "projects": {
-    "/Users/austinholmes/Desktop/First Project/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj": {
+    "/Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/austinholmes/Desktop/First Project/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj",
+        "projectUniqueName": "/Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj",
         "projectName": "MyGramFirstProject",
-        "projectPath": "/Users/austinholmes/Desktop/First Project/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj",
+        "projectPath": "/Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj",
         "packagesPath": "/Users/austinholmes/.nuget/packages/",
-        "outputPath": "/Users/austinholmes/Desktop/First Project/MyGramFirstProject/MyGramFirstProject/obj/",
+        "outputPath": "/Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/austinholmes/.config/NuGet/NuGet.Config"

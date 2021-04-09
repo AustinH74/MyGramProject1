@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vXyRp6uF4R56bTqlhG6km7kGprWMmG6jdIKF+3xQgF+kiYawHXtOG/cvT+85Qywyp4+1rEyEC8W2mo2TSYe5+g==",
+  "dgSpecHash": "yTQPGOiDE3D9Rd2+lwH2qQFTVQXlA/DhpUPADGPZ//CcrBHbcCWDriGp20/s1XiM9koYvVNzXx5HtFUA4/7kQQ==",
   "success": true,
-  "projectFilePath": "/Users/austinholmes/Desktop/First Project/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj",
+  "projectFilePath": "/Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/MyGramFirstProject.csproj",
   "expectedPackageFiles": [
     "/Users/austinholmes/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/3.1.12/microsoft.aspnetcore.mvc.razor.extensions.3.1.12.nupkg.sha512",
     "/Users/austinholmes/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/3.1.12/microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.12.nupkg.sha512",
