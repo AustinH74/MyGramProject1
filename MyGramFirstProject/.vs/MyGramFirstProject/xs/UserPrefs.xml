@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MyGramFirstProject/Views/Shared/_Layout.cshtml">
     <Files>
       <File FileName="../MyGramFirstProject.cshtml" Line="1" Column="1" />
-      <File FileName="MyGramFirstProject/Views/Shared/_Layout.cshtml" Line="31" Column="11" />
+      <File FileName="MyGramFirstProject/Views/Shared/_Layout.cshtml" Line="73" Column="52" />
       <File FileName="MyGramFirstProject/Views/Home/Index.cshtml" />
       <File FileName="MyGramFirstProject/Views/Home/Privacy.cshtml" />
     </Files>
@@ -18,7 +18,9 @@
                   <Node name="_Layout.cshtml" selected="True" />
                 </Node>
               </Node>
-              <Node name="wwwroot" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="Videos" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
