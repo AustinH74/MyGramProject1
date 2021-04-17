@@ -40,6 +40,10 @@ namespace MyGramFirstProject.Controllers
                 "and the password is: " + Password;
             return Content(myresult);
         }
+        public IActionResult UserProfile()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

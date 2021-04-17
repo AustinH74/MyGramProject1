@@ -703,3 +703,4 @@
 /Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/obj/Debug/netcoreapp3.1/MyGramFirstProject.pdb
 /Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/obj/Debug/netcoreapp3.1/MyGramFirstProject.genruntimeconfig.cache
 /Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
+/Users/austinholmes/Desktop/NewMyGramProject/MyGramFirstProject/MyGramFirstProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/UserProfile.cshtml.g.cs
