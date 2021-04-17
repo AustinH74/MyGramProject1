@@ -1,4 +1,4 @@
-﻿<form>
+﻿<form method="get" action="~/Home/SaveUser">
     <fieldset>
         <legend>User Information</legend>
         <table>
@@ -8,7 +8,7 @@
                         <label for="UserName">User Name:</label>
                     </td>
                     <td>
-                        <input id="UserName" type="text"
+                        <input id="UserName" name="UserName" type="text"
                                size="40" maxlength="40"
                                placeholder="Add your User Name" />
                     </td>
@@ -18,10 +18,13 @@
                         <label for="Password">Password:</label>
                     </td>
                     <td>
-                        <input id="Password" type="Password"
+                        <input id="Password" name="Password" type="Password"
                                size="40" maxlength="40"
                                placeholder="Add your Password" />
                     </td>
+                </tr>
+                <tr>
+                    <input type="submit" value="Register"/>
                 </tr>
             </tbody>
         </table>

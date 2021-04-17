@@ -33,6 +33,14 @@ namespace MyGramFirstProject.Controllers
             return View();
         }
 
+        public IActionResult SaveUser(string UserName, string Password)
+        {
+            string myresult =
+                "The user is: " + UserName +
+                "and the password is: " + Password;
+            return Content(myresult);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
