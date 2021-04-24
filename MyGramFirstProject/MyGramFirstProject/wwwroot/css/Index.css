@@ -1,0 +1,68 @@
+﻿
+#Div1{
+    font-family:cursive;
+    font-size:40px;
+    font-weight: bold;
+}
+.navbar button{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+}
+#Div4{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+}
+.pb-3{
+    background-color: ghostwhite;
+}
+#Span1{
+    font-weight: bold;
+}
+#Span2 {
+    font-weight: bold;
+}
+#Span3 {
+    font-weight: bold;
+}
+footer a.hover{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
+}
+#Span4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
+    font-size: 15px;
+}
+#Span5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
+    font-size: 15px;
+}
+#Span6 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
+    font-size: 15px;
+}
+#Span7 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
+    font-size: 15px;
+}
+#Span8 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
+    font-size: 15px;
+}
+#Span9 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
+    font-size: 15px;
+}
+#Span10 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
+    font-size: 15px;
+}
