@@ -4,18 +4,21 @@
     font-size:40px;
     font-weight: bold;
 }
-.navbar button{
-    background-color: dodgerblue;
-    color: white;
-    border-radius: 5px;
+header {
+    text-align: center;
 }
-#Div4{
-    background-color: dodgerblue;
-    color: white;
-    border-radius: 5px;
-}
-.pb-3{
+.pb-3 {
     background-color: ghostwhite;
+    text-align: center;
+}
+.Body{
+    text-align: center;
+}
+.MyPage{
+    text-align: center;
+}
+table{
+    text-align:center;
 }
 #Span1{
     font-weight: bold;
@@ -26,43 +29,88 @@
 #Span3 {
     font-weight: bold;
 }
+#Span4{
+    color:grey;
+}
+#Span5 {
+    color: grey;
+}
+#Span6 {
+    color: grey;
+}
+#Span7 {
+    color: grey;
+}
+#Span8 {
+    color: grey;
+}
+#Span9 {
+    color: grey;
+}
+#Span10 {
+    color: grey;
+}
+#Span11 {
+    color: grey;
+}
+#Span12 {
+    color: grey;
+}
+#Span13 {
+    color: grey;
+}
+#Span14 {
+    color: grey;
+}
+.container {
+    text-align:center;
+}
 footer a.hover{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     color: GrayText;
+    text-align:center;
 }
-#Span4 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: GrayText;
-    font-size: 15px;
+.Timelinebutton:link {
+   background-color: white;
 }
-#Span5 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: GrayText;
-    font-size: 15px;
+.Timelinebutton:hover {
+    color: black;
+    text-decoration: underline;
 }
-#Span6 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: GrayText;
-    font-size: 15px;
+.Grambuttons:link{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px; 
 }
-#Span7 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: GrayText;
-    font-size: 15px;
+.Grambuttons:hover {
+    background-color: darkblue;
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    cursor: progress;
 }
-#Span8 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: GrayText;
-    font-size: 15px;
+.Followbutton:link {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
 }
-#Span9 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: GrayText;
-    font-size: 15px;
+.Followbutton:hover {
+    background-color: darkblue;
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    cursor: progress;
 }
-#Span10 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: GrayText;
-    font-size: 15px;
+#span11:hover{
+    background-color:black;
+    color: gray;
 }
