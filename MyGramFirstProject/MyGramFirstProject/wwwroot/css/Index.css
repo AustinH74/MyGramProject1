@@ -4,6 +4,9 @@
     font-size:40px;
     font-weight: bold;
 }
+.People1 {
+    border-radius: 5px;
+}
 header {
     text-align: center;
 }
@@ -30,40 +33,11 @@ table{
     font-weight: bold;
 }
 #Span4{
+    text-align: center;
     color:grey;
 }
-#Span5 {
-    color: grey;
-}
-#Span6 {
-    color: grey;
-}
-#Span7 {
-    color: grey;
-}
-#Span8 {
-    color: grey;
-}
-#Span9 {
-    color: grey;
-}
-#Span10 {
-    color: grey;
-}
-#Span11 {
-    color: grey;
-}
-#Span12 {
-    color: grey;
-}
-#Span13 {
-    color: grey;
-}
-#Span14 {
-    color: grey;
-}
-.People1 {
-    border-radius: 200px;
+.footer {
+    text-align: center;
 }
 footer a.hover{
     text-decoration: none;
@@ -72,11 +46,15 @@ footer a.hover{
     text-align:center;
 }
 .Timelinebutton:link {
-   background-color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: GrayText;
 }
 .Timelinebutton:hover {
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
     color: black;
-    text-decoration: underline;
+    
 }
 .Grambuttons:link{
     background-color: white;
