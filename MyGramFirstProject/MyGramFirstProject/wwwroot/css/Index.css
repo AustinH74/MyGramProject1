@@ -10,6 +10,15 @@
 header {
     text-align: center;
 }
+.PositionLogIn {
+    background-color: RGBA(0,0,0,.8);
+    color: white;
+    position: sticky;
+    bottom: 0;
+    width: 930px;
+    height: 80px;
+    backdrop-filter: blur(4px);
+}
 .pb-3 {
     background-color: ghostwhite;
     text-align: center;
@@ -56,24 +65,43 @@ footer a.hover{
     color: black;
     
 }
-.Grambuttons:link{
-    background-color: white;
+.Grambuttons:link {
+    background-color: #0095f6;
+    color: #fafafa;
     border-style: solid;
     border-width: 1px;
     border-color: white;
     border-radius: 10px;
     text-decoration: none;
-    padding: 5px 10px 5px 10px; 
+    padding: 5px 10px 5px 10px;
 }
 .Grambuttons:hover {
     background-color: darkblue;
     border-color: white;
     border-width: 2px;
-    color: white;
+    color: #fafafa;
+    cursor: progress;
+}
+.Grambuttons3:link {
+    background-color: #0095f6;
+    color: #fafafa;
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+}
+
+.Grambuttons3:hover {
+    background-color: darkblue;
+    border-color: white;
+    border-width: 4px;
+    color: #fafafa;
     cursor: progress;
 }
 .Followbutton:link {
-    background-color: white;
+    background-color: #0095f6;
     border-style: solid;
     border-width: 1px;
     border-color: white;
@@ -85,7 +113,7 @@ footer a.hover{
     background-color: darkblue;
     border-color: white;
     border-width: 2px;
-    color: white;
+    color: #fafafa;
     cursor: progress;
 }
 #span11:hover{
