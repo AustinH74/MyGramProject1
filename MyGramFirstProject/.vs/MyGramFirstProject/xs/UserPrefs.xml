@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{1B3A16AF-8872-40FD-88FE-94EA8A2E12F7}|Default">
   <MonoDevelop.Ide.ItemProperties.MyGramFirstProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramFirstProject/wwwroot/css/Index.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramFirstProject/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="MyGramFirstProject/Views/Shared/_Layout.cshtml" Line="41" Column="15" />
-      <File FileName="MyGramFirstProject/wwwroot/css/Index.css" Line="11" Column="9" />
-      <File FileName="MyGramFirstProject/Views/Home/Index.cshtml" />
+      <File FileName="MyGramFirstProject/wwwroot/css/Index.css" Line="93" Column="27" IsPinned="True" />
+      <File FileName="MyGramFirstProject/Views/Home/Index.cshtml" Line="53" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,13 +12,13 @@
             <Node name="MyGramFirstProject" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="Index.css" selected="True" />
-                </Node>
+                <Node name="css" expanded="True" />
               </Node>
             </Node>
           </Node>
